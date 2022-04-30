@@ -17,9 +17,9 @@ Also note when using spotify you will need to run
 the following commands in your terminal with your
 own keys.
 
-set SPOTIPY_CLIENT_ID=USEYOURCLICENCETID
-set SPOTIPY_CLIENT_SECRET=USEYOURSECRET
-set SPOTIPY_REDIRECT_URI=USEYOURURI
+* set SPOTIPY_CLIENT_ID=USEYOURCLICENCETID
+* set SPOTIPY_CLIENT_SECRET=USEYOURSECRET
+* set SPOTIPY_REDIRECT_URI=USEYOURURI
 
 I still have a few things that need adding or
 fixing but for now I shall leave it to work
